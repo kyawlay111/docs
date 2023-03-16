@@ -1,4 +1,4 @@
-name: Close issue/PR on adding invalid label
+close-on-invalid-label. Yaml
 
 on:
   issues:
